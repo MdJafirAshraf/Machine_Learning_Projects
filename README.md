@@ -4,8 +4,8 @@
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ol>
-        <li><a href=''>Simple Linear Regression</a></li>
-        <li><a href=''>Multiple Linear Regression</a></li>
+        <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/1_Simple_linear_regression'>Simple Linear Regression</a></li>
+        <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/2_Multiple_linear_regression'>Multiple Linear Regression</a></li>
     </ol>
 </div>
 <br>
