@@ -1,5 +1,5 @@
 # Machine_Learning_Projects
-<span>In this projects is build for some machine learning algorithms. It is used for beginner to intermediate. So I hope that's used for all.</span> 
+<span>In this projects is build for some machine learning algorithms and techniques. It is used for beginner to intermediate. So I hope that's used for all.</span> 
 <br><h1>Table of contents</h1>
 <hr>
 
