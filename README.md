@@ -7,7 +7,7 @@
     <ol>
         <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/1_Simple_linear_regression'>Simple Linear Regression</a></li>
         <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/2_Multiple_linear_regression'>Multiple Linear Regression</a></li>
-        <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/3_Polynomial_regression'>Multiple Linear Regression</a></li>
+        <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/3_Polynomial_regression'>Polynomial Regression</a></li>
     </ol>
 </div>
 <br>
