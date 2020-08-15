@@ -9,8 +9,7 @@
         <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/2_Multiple_linear_regression'>Multiple Linear Regression</a></li>
         <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/3_Polynomial_regression'>Polynomial Regression</a></li>
          <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/5_K_Nearest_Neighbor'> K Nearest Neighbors </a></li>
-       
-    </ol>
+     </ol>
 </div>
 <br>
 <hr>
