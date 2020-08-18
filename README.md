@@ -10,7 +10,7 @@
          <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/4_Non_linear_regression'> Non-Linear Regression </a></li>
          <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/5_K_Nearest_Neighbor'> K Nearest Neighbors </a></li>
         <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/6_Decision_tree'> Decision Tree </a></li>
-        <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/6_Decision_tree'> Support Vecto Machine (SVM) </a></li>
+        <li><a href='https://github.com/JafirDon/Machine_Learning_Projects/tree/master/7_Support_vector_machine'> Support Vecto Machine (SVM) </a></li>
      </ol>
 </div>
 <br>
