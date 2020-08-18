@@ -3,7 +3,7 @@
 
 # Machine Learning
 <p>Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.</p>
-![ML](https://www.google.com/search?tbs=simg:CAQShwEJJa3hywp5FBwafAsQsIynCBpgCl4IAxImvgPBA-0ImxfEA2XJA2LuCMwDlDT5M5k1hzSVPZc9lD2lPb49nj0aMANeiXf91IjXDgyqZ4fCj5GblJQjuOw9ZtWg5aznx20-qbzA8Exh07k7TSTGQOukJiAEDAsQjq7-CBoKCggIARIEU4PxNgw&sxsrf=ALeKk03jS-C_f9kgh1BR_HhHuDoCXoXXxw:1597766862486&q=frankfurter+tor&tbm=isch&sa=X&ved=2ahUKEwiE0ZaykaXrAhUCyDgGHRcfCOEQwg4oAHoECBAQKQ)
+![ML](https://www.google.com/url?sa=i&url=https%3A%2F%2Floginom.ru%2Fsites%2Fdefault%2Ffiles%2Fblogpost-files%2Floginom-review.pdf&psig=AOvVaw0qgf3duawZO4aLXCpUbI9w&ust=1597853729892000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKipidqSpesCFQAAAAAdAAAAABAD)
 
 <br><h1>Table of contents</h1>
 <div>
