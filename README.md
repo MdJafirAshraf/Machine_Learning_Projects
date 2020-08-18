@@ -1,6 +1,6 @@
 # Machine_Learning_Projects
 <span>In this projects is build for some machine learning algorithms and techniques. It also used for beginner. Each algothim is clearly define. So I hope that's used for all.</span> 
-
+<br><br>
 # Machine Learning
 <p>Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.</p>
 
