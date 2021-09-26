@@ -1,5 +1,9 @@
 # Machine_Learning_Projects
 <p>In this projects is build for some machine learning algorithms and techniques. It also used for beginner. Each algothim is clearly define.And time to practice machine learning and this works would utilize for all. So I hope that's will be used for all.</p> 
+<br>
+
+If you want to more clear explonation, see my blog [Techy Scientists](https://techyscientists.blogspot.com/)
+
 <br><br>
 <img src='ml.png' width="40%" ></img>
 
